@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
-
+<p align="center"><b>I'm Ömer Faruk AYVAZ</b></p>
 <h2>About Me</h2>
 <ul>
   <li><b>Competitions: </b>I actively submit my projects to TEKNOFEST and TÜBİTAK competitions, aiming to showcase my skills and contribute to the field of technology and innovation.</li>
