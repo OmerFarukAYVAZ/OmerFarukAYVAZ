@@ -12,6 +12,7 @@
 </ul>
 <h2>Projects</h2>
 <ul>
+  <li><b><a href="https://github.com/OmerFarukAYVZ">Sivas Hackathon'25: </a></b>ToTTech Takımı Sivas Hackathon'25 bozuk yol tespiti.</li>
   <li><b><a href="https://github.com/OmerFarukAYVZ">Mushroom Detection: </a></b>It's detect poisonous mushrooms with my trained AI.</li>
   <li><b><a href="https://github.com/OmerFarukAYVZ">Colon Cancer Detection: </a></b>It's detect colon cancer with my trained Segmentation AI on images.</li>
   <li><b><a href="https://github.com/OmerFarukAYVZ">Drone UI: </a></b>It's show all drone informations with api. Have admin panel for user keys.</li>
