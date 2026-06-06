@@ -7,7 +7,7 @@
 </ul>
 <h2>Software Languages</h2>
 <ul>
-  <li>I am skilled in Python, C#, and HTML, and I am currently learning JavaScript, Java, and C++.</li>
+  <li>I am skilled in Python, C#, and HTML. I am currently learning Java and Javascript for my minecraft server project.</li>
 </ul>
 <h2>Projects</h2>
 <ul>
