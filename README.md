@@ -1,25 +1,42 @@
-<h1 align="center">Hi 👋, I'm Faruk</h1>
-<p align="center"><b>I'm Ömer Faruk AYVAZ</b></p>
-<h2>About Me</h2>
-<ul>
-  <li><b>Competitions: </b>I actively submit my projects to TEKNOFEST and TÜBİTAK competitions, aiming to showcase my skills and contribute to the field of technology and innovation.</li>
-  <li><b>Interests:</b>AI Dev, Minecraft Dev,Backend Dev</li>
-</ul>
-<h2>Software Languages</h2>
-<ul>
-  <li>I am skilled in Python, C#, and HTML. I am currently learning Java and Javascript for my minecraft server project.</li>
-</ul>
-<h2>Projects</h2>
-<ul>
-  <li><b><a href="https://github.com/OmerFarukAYVZ">Colon Cancer Detection: </a></b>It's detect colon cancer with my trained Segmentation AI on images.</li>
-  <li><b><a href="https://github.com/OmerFarukAYVZ">Cardiothoracic Ratio Calculation: </a></b>It's calculate cardiothoracic ratio on x-ray images.</li>
-  <li><b><a href="https://github.com/OmerFarukAYVZ">Damaged Road Detection: </a></b>It's detect damaged road with my trained AI.</li>
-  <li><b><a href="https://github.com/OmerFarukAYVZ">Mushroom Detection: </a></b>It's detect poisonous mushrooms with my trained AI.</li>
-  <li><b><a href="https://github.com/OmerFarukAYVZ">Drone UI: </a></b>It's show all drone informations with api. Have admin panel for user keys.</li>
-  <li><b><a href="https://github.com/OmerFarukAYVZ">Send API to Web Hosting: </a></b>It's send created by python script api to web hosting.</li>
-</ul>
-<h2>Social</h2>
-<ul>
-  <li><b><a href="https://instagram.com/omerfarukayvaz05">Instagram.</li>
-  <li><b><a href="https://discord.com/users/849729498889977917">Discord</li>
-</ul>
+🚀 About Me
+🏆 I actively participate in TEKNOFEST and TÜBİTAK competitions, developing innovative technology projects.
+🤖 Passionate about Artificial Intelligence, Backend Development, and Minecraft Server Development.
+📚 Currently learning Java and JavaScript to improve my Minecraft development skills.
+🎯 My goal is to build impactful software solutions and contribute to real-world problems through technology.
+💻 Technologies & Languages
+Python
+C#
+HTML
+Java (Learning)
+JavaScript (Learning)
+📂 Featured Projects
+🩺 Colon Cancer Detection
+
+AI-powered image segmentation model designed to detect colon cancer polyps from medical images.
+
+❤️ Cardiothoracic Ratio Calculation
+
+Automated system that calculates the cardiothoracic ratio from chest X-ray images.
+
+🛣️ Damaged Road Detection
+
+YOLO and transfer learning model for detecting damaged roads and surface defects.
+
+🔗 Repository:
+https://github.com/OmerFarukAYVAZ/Damaged-Road-Detection-Ai
+
+🍄 Poisonous Mushroom Detection
+
+YOLO AI model trained to identify potentially poisonous mushroom species from images.
+
+🚁 Drone Management UI
+
+A web-based interface that displays drone telemetry and status information through APIs. Includes an admin panel for managing user access keys.
+
+🌐 API Deployment System
+
+Python-based system that automatically sends and deploys generated APIs to web hosting services.
+
+📫 Connect With Me
+Instagram: https://instagram.com/omerfarukayvaz05
+Discord: https://discord.com/users/849729498889977917
