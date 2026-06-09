@@ -90,16 +90,6 @@ Automated system that calculates the cardiothoracic ratio from chest X-ray image
 
 [YOLO and transfer learning model for detecting damaged roads and surface defects.](https://github.com/OmerFarukAYVAZ/Damaged-Road-Detection-Ai)
 
-</a>
-
-</p>
-
-
-
-Damaged-Road-Detection-AI
-
-</a>
-
 </p>
 
 
