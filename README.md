@@ -138,11 +138,7 @@ Python-based system that automatically sends and deploys generated APIs to web h
 
     Instagram:
 
-    <a href="https://instagram.com/omerfarukayvaz05">
-
       @omerfarukayvaz05
-
-    </a>
 
   </li>
 
@@ -150,11 +146,7 @@ Python-based system that automatically sends and deploys generated APIs to web h
 
     Discord:
 
-    <a href="https://discord.com/users/849729498889977917">
-
-      Profile
-
-    </a>
+      MMooshe
 
   </li>
 
