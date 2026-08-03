@@ -78,7 +78,7 @@ AI image segmentation model designed to detect colon cancer polyps from medical 
 
 <p>
 
-AI-powered image segmentation model and an automated system for calculating the cardiothoracic ratio from chest X-ray images.
+AI image segmentation model and an automated system for calculating the cardiothoracic ratio from chest X-ray images.
 
 </p>
 
