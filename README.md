@@ -138,7 +138,7 @@ Python-based system that automatically sends and deploys generated APIs to web h
 
     Instagram:
 
-      @omerfarukayvaz05
+      @omerfarukayvaz0
 
   </li>
 
